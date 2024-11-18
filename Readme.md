@@ -158,3 +158,9 @@ print(f'Result: y = {a.item()} + {b.item()} x + {c.item()} x^2 + {d.item()} x^3'
 If you don’t see any error, everything works as expected!
 
 Ref: https://towardsdatascience.com/installing-pytorch-on-apple-m1-chip-with-gpu-acceleration-3351dc44d67c
+
+
+
+# Image person
+
+https://piclumen.com/app/image-generator/create
